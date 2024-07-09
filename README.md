@@ -2,4 +2,4 @@
 
 Ficheros e instrucciones para Power Platform
 
-- **[Descargue el último manual para estudiantes y el contenido de AllFiles](../../releases/latest)**
+- **[Preparación del Entorno](./blob/main/Instructions/Lab00-Validate-lab-environment.md)**
