@@ -2,4 +2,4 @@
 
 Ficheros e instrucciones para Power Platform
 
-- **[Preparación del Entorno](./blob/main/Instructions/Lab00-Validate-lab-environment.md)**
+- **[Preparación del Entorno](./Instructions/Lab00)**
