@@ -8,3 +8,4 @@ Ficheros e instrucciones para Power Platform
 - **[Lab 02-2 - Flujos de procesos de negocio y reglas de negocio](./Instructions/Lab02-2)**
 - **[Lab 03-1 - Crear una aplicación de lienzo en Teams](./Instructions/Lab03-1)**
 - **[Lab 03-2 - Crear una aplicación de lienzo](./Instructions/Lab03-2)**
+- **[Lab 04 - Power Automate](./Instructions/Lab04)**
